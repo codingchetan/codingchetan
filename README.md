@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Chetan. I am a Java Fullstack developer.
 - 👀 I’m interested in learning, understanding software engineering technologies and writing clean, efficient code.
 - 🌱 I know Java, JavaScript, React and I am currently learning Python. 
-- 💞️ I’m looking to collaborate on open source java projects
+- 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me : chetanp2402@gmail.com
 
 <!---
